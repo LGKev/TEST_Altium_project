@@ -1,0 +1,27 @@
+Added Component: Designator=IC?(TI SSOP-24 DB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/ads1240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/ADS1240E%2F1K/296-38851-2-ND/1689143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "MUX-PGA-ADC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "24-SSOP (0.209", 5.30mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "PGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Differential, Single Ended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ADS1240E/1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "7.0387"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Type"; Value = "External"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Samping Rate"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-38851-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Analog"; Value = "2.7 V ~ 3.3 V, 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Digital"; Value = "2.7 V ~ 5.25 V"; VariantName = "[No Variations]"
+Added Class: Name=test_project_svn
+Added Room: Name=test_project_svn
